@@ -1,5 +1,5 @@
 // 导入WebSocket模块:
-const WebSocket = require('src/demo03/ws');
+const WebSocket = require('ws');
 
 // 引用Server类:
 const WebSocketServer = WebSocket.Server;
