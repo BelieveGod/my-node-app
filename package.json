@@ -6,13 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src --fix",
-    "lint:create": "eslint --init"
+    "lint:create": "eslint --init",
+    "server": "node src/express/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chaikin-smooth": "^1.0.4",
+    "express": "^4.17.1",
     "node-rtsp-stream": "0.0.9",
     "ol": "^6.4.3",
     "ws": "1.1.1"
