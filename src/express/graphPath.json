@@ -1,0 +1,1599 @@
+{
+  "data": [
+    {
+      "coverageArea": 92.785612173800274,
+      "createdAt": "2020-12-10 10:46:41",
+      "fileName": "0c2bfc92-1c85-4578-b7c6-eddd865cb88b.bin",
+      "id": 0,
+      "length": 123.71414956506703,
+      "lines": [
+        {
+          "begin": "0",
+          "end": "1",
+          "length": 15.456552239096535,
+          "name": "0_1",
+          "pointCount": 774,
+          "radius": 0
+        },
+        {
+          "begin": "1",
+          "end": "2",
+          "length": 13.000865549541686,
+          "name": "1_2",
+          "pointCount": 652,
+          "radius": 0
+        },
+        {
+          "begin": "2",
+          "end": "3",
+          "length": 49.768313953930125,
+          "name": "2_3",
+          "pointCount": 2490,
+          "radius": 0
+        },
+        {
+          "begin": "3",
+          "end": "4",
+          "length": 11.500000171363354,
+          "name": "3_4",
+          "pointCount": 577,
+          "radius": 0
+        },
+        {
+          "begin": "4",
+          "end": "5",
+          "length": 33.988417651135343,
+          "name": "4_5",
+          "pointCount": 1701,
+          "radius": 0
+        }
+      ],
+      "mapId": "6fb01640-7ad1-427a-96e8-38994a315582",
+      "mapName": "1207",
+      "name": "testPath",
+      "paths": [
+        {
+          "coverageArea": 92.785612173800274,
+          "length": 123.71414956506703,
+          "lines": [
+            {
+              "name": "0_1",
+              "reverse": false
+            },
+            {
+              "name": "1_2",
+              "reverse": false
+            },
+            {
+              "name": "2_3",
+              "reverse": false
+            },
+            {
+              "name": "3_4",
+              "reverse": false
+            },
+            {
+              "name": "4_5",
+              "reverse": false
+            }
+          ],
+          "name": "testPath_path0",
+          "pointCount": 6194,
+          "points": [
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1498,
+                "y": 1050
+              },
+              "name": "0",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -2.9783558171242532,
+                  "y": 16.097168751433493,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1807,
+                "y": 1059
+              },
+              "name": "1",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 12.471644413098687,
+                  "y": 16.547168758139016,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1810,
+                "y": 799
+              },
+              "name": "2",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 12.621644415333861,
+                  "y": 3.5471685644239201,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 815,
+                "y": 772
+              },
+              "name": "3",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -37.128356325998908,
+                  "y": 2.1971685443073525,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 815,
+                "y": 1002
+              },
+              "name": "4",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -37.128356325998908,
+                  "y": 13.697168715670706,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1493,
+                "y": 1051
+              },
+              "name": "5",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -3.2283558208495435,
+                  "y": 16.147168752178551,
+                  "z": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "pointCount": 6194,
+      "points": [
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1498,
+            "y": 774
+          },
+          "index": -1929420028,
+          "name": "0",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -2.9783558171242532,
+              "y": 2.2971685457974687,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1807,
+            "y": 765
+          },
+          "index": -1929420028,
+          "name": "1",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": 12.471644413098687,
+              "y": 1.8471685390919461,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1810,
+            "y": 1025
+          },
+          "index": -1929420028,
+          "name": "2",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": 12.621644415333861,
+              "y": 14.847168732807042,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 815,
+            "y": 1052
+          },
+          "index": -1929420028,
+          "name": "3",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -37.128356325998908,
+              "y": 16.197168752923609,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 815,
+            "y": 822
+          },
+          "index": -1929420028,
+          "name": "4",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -37.128356325998908,
+              "y": 4.6971685815602555,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1493,
+            "y": 773
+          },
+          "index": -1929420028,
+          "name": "5",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -3.2283558208495435,
+              "y": 2.2471685450524106,
+              "z": 0
+            }
+          }
+        }
+      ],
+      "type": 2
+    },
+    {
+      "coverageArea": 16.302147758356636,
+      "createdAt": "2020-12-15 17:44:47",
+      "fileName": "2d1238a2-9e65-4455-8af4-1324bbfc16b0.bin",
+      "id": 0,
+      "length": 21.736197011142181,
+      "lines": [
+        {
+          "begin": "0",
+          "end": "1",
+          "length": 12.064928691795135,
+          "name": "0_1",
+          "pointCount": 605,
+          "radius": 0
+        },
+        {
+          "begin": "1",
+          "end": "2",
+          "length": 4.7712682463313563,
+          "name": "1_2",
+          "pointCount": 240,
+          "radius": 0
+        },
+        {
+          "begin": "2",
+          "end": "3",
+          "length": 4.9000000730156898,
+          "name": "2_3",
+          "pointCount": 247,
+          "radius": 0
+        }
+      ],
+      "mapId": "6fb01640-7ad1-427a-96e8-38994a315582",
+      "mapName": "1207",
+      "name": "testPath02",
+      "paths": [
+        {
+          "coverageArea": 16.302147758356636,
+          "length": 21.736197011142181,
+          "lines": [
+            {
+              "name": "0_1",
+              "reverse": false
+            },
+            {
+              "name": "1_2",
+              "reverse": false
+            },
+            {
+              "name": "2_3",
+              "reverse": false
+            }
+          ],
+          "name": "testPath02_path0",
+          "pointCount": 1092,
+          "points": [
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1500,
+                "y": 1048
+              },
+              "name": "0",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -2.8783558156341371,
+                  "y": 15.997168749943377,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1259,
+                "y": 1036
+              },
+              "name": "1",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -14.92835599519313,
+                  "y": 15.39716874100268,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1164,
+                "y": 1027
+              },
+              "name": "2",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -19.678356065973645,
+                  "y": 14.947168734297158,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1066,
+                "y": 1027
+              },
+              "name": "3",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -24.578356138989335,
+                  "y": 14.947168734297158,
+                  "z": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "pointCount": 1092,
+      "points": [
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1500,
+            "y": 776
+          },
+          "index": -1887456508,
+          "name": "0",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -2.8783558156341371,
+              "y": 2.3971685472875848,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1259,
+            "y": 788
+          },
+          "index": -1887456508,
+          "name": "1",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -14.92835599519313,
+              "y": 2.9971685562282815,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1164,
+            "y": 797
+          },
+          "index": -1887456508,
+          "name": "2",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -19.678356065973645,
+              "y": 3.447168562933804,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1066,
+            "y": 797
+          },
+          "index": -1887456508,
+          "name": "3",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -24.578356138989335,
+              "y": 3.447168562933804,
+              "z": 0
+            }
+          }
+        }
+      ],
+      "type": 2
+    },
+    {
+      "coverageArea": 10.006255384288295,
+      "createdAt": "2020-12-16 09:39:59",
+      "fileName": "6da43f2c-3e70-430e-9f1e-ed4da39e31a9.bin",
+      "id": 0,
+      "length": 13.341673845717725,
+      "lines": [
+        {
+          "begin": "0",
+          "end": "1",
+          "length": 2.5519600690621367,
+          "name": "0_1",
+          "pointCount": 129,
+          "radius": 0
+        },
+        {
+          "begin": "1",
+          "end": "2",
+          "length": 4.0527768862229845,
+          "name": "1_2",
+          "pointCount": 204,
+          "radius": 0
+        },
+        {
+          "begin": "2",
+          "end": "3",
+          "length": 2.7771388567823627,
+          "name": "2_3",
+          "pointCount": 140,
+          "radius": 0
+        },
+        {
+          "begin": "3",
+          "end": "4",
+          "length": 3.9597980336502419,
+          "name": "3_4",
+          "pointCount": 199,
+          "radius": 0
+        }
+      ],
+      "mapId": "6fb01640-7ad1-427a-96e8-38994a315582",
+      "mapName": "1207",
+      "name": "actionTest",
+      "paths": [
+        {
+          "coverageArea": 10.006255384288295,
+          "length": 13.341673845717725,
+          "lines": [
+            {
+              "name": "0_1",
+              "reverse": false
+            },
+            {
+              "name": "1_2",
+              "reverse": false
+            },
+            {
+              "name": "2_3",
+              "reverse": false
+            },
+            {
+              "name": "3_4",
+              "reverse": false
+            }
+          ],
+          "name": "actionTest_path0",
+          "pointCount": 672,
+          "points": [
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1528,
+                "y": 1043
+              },
+              "name": "0",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -1.4783557947725114,
+                  "y": 15.747168746218087,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1579,
+                "y": 1045
+              },
+              "name": "1",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 1.0716442432254496,
+                  "y": 15.847168747708203,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1660,
+                "y": 1048
+              },
+              "name": "2",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 5.1216443035751524,
+                  "y": 15.997168749943377,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1711,
+                "y": 1070
+              },
+              "name": "3",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 7.6716443415731135,
+                  "y": 17.097168766334654,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1655,
+                "y": 1126
+              },
+              "name": "4",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": 4.8716442998498621,
+                  "y": 19.897168808057906,
+                  "z": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "pointCount": 672,
+      "points": [
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1528,
+            "y": 781
+          },
+          "index": -553671932,
+          "name": "0",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -1.4783557947725114,
+              "y": 2.6471685510128751,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1579,
+            "y": 779
+          },
+          "index": -553671932,
+          "name": "1",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": 1.0716442432254496,
+              "y": 2.547168549522759,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1660,
+            "y": 776
+          },
+          "index": -553671932,
+          "name": "2",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": 5.1216443035751524,
+              "y": 2.3971685472875848,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1711,
+            "y": 754
+          },
+          "index": -553671932,
+          "name": "3",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": 7.6716443415731135,
+              "y": 1.2971685308963075,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1655,
+            "y": 698
+          },
+          "index": -553671932,
+          "name": "4",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": 4.8716442998498621,
+              "y": -1.5028315108269439,
+              "z": 0
+            }
+          }
+        }
+      ],
+      "type": 2
+    },
+    {
+      "coverageArea": 1.5750000234693289,
+      "createdAt": "2020-12-16 10:29:41",
+      "fileName": "1f08d6f5-1918-4406-b2fa-256c0b028ba8.bin",
+      "id": 0,
+      "length": 2.1000000312924385,
+      "lines": [
+        {
+          "begin": "0",
+          "end": "1",
+          "length": 2.1000000312924385,
+          "name": "0_1",
+          "pointCount": 107,
+          "radius": 0
+        }
+      ],
+      "mapId": "6fb01640-7ad1-427a-96e8-38994a315582",
+      "mapName": "1207",
+      "name": "actionTest2",
+      "paths": [
+        {
+          "coverageArea": 1.5750000234693289,
+          "length": 2.1000000312924385,
+          "lines": [
+            {
+              "name": "0_1",
+              "reverse": false
+            }
+          ],
+          "name": "actionTest2_path0",
+          "pointCount": 107,
+          "points": [
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1425,
+                "y": 1392
+              },
+              "name": "0",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -6.6283558715134916,
+                  "y": 33.19716900624335,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1425,
+                "y": 1434
+              },
+              "name": "1",
+              "worldPose": {
+                "orientation": {
+                  "w": 1,
+                  "x": 0,
+                  "y": 0,
+                  "z": 0
+                },
+                "position": {
+                  "x": -6.6283558715134916,
+                  "y": 35.297169037535788,
+                  "z": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "pointCount": 107,
+      "points": [
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1425,
+            "y": 432
+          },
+          "index": -50371836,
+          "name": "0",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -6.6283558715134916,
+              "y": -14.802831709012388,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": 0,
+          "gridPosition": {
+            "x": 1425,
+            "y": 390
+          },
+          "index": -50371836,
+          "name": "1",
+          "worldPose": {
+            "orientation": {
+              "w": 1,
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "position": {
+              "x": -6.6283558715134916,
+              "y": -16.902831740304826,
+              "z": 0
+            }
+          }
+        }
+      ],
+      "type": 2
+    },
+    {
+      "coverageArea": 88.07254105565994,
+      "createdAt": "2020-12-16 15:32:42",
+      "fileName": "cd0d8da3-cf35-4587-b8e0-3c366e26824c.bin",
+      "id": 0,
+      "length": 117.43005474087991,
+      "lines": [
+        {
+          "begin": "0",
+          "end": "1",
+          "length": 7.1501749295834136,
+          "name": "0_1",
+          "pointCount": 359,
+          "radius": 0
+        },
+        {
+          "begin": "1",
+          "end": "2",
+          "length": 7.2649550709421273,
+          "name": "1_2",
+          "pointCount": 163,
+          "radius": -244.94390000000001
+        },
+        {
+          "begin": "2",
+          "end": "3",
+          "length": 5.9033889452255455,
+          "name": "2_3",
+          "pointCount": 297,
+          "radius": 0
+        },
+        {
+          "begin": "3",
+          "end": "4",
+          "length": 6.244323888994268,
+          "name": "3_4",
+          "pointCount": 140,
+          "radius": -157.25704999999999
+        },
+        {
+          "begin": "4",
+          "end": "5",
+          "length": 39.669699354790708,
+          "name": "4_5",
+          "pointCount": 1985,
+          "radius": 0
+        },
+        {
+          "begin": "5",
+          "end": "6",
+          "length": 6.6803255789534344,
+          "name": "5_6",
+          "pointCount": 150,
+          "radius": -169.46012999999999
+        },
+        {
+          "begin": "6",
+          "end": "7",
+          "length": 4.5024993730335634,
+          "name": "6_7",
+          "pointCount": 227,
+          "radius": 0
+        },
+        {
+          "begin": "7",
+          "end": "8",
+          "length": 9.4514330632527148,
+          "name": "7_8",
+          "pointCount": 212,
+          "radius": -111.44504999999999
+        },
+        {
+          "begin": "8",
+          "end": "9",
+          "length": 30.563254536104147,
+          "name": "8_9",
+          "pointCount": 1530,
+          "radius": 0
+        }
+      ],
+      "mapId": "6fb01640-7ad1-427a-96e8-38994a315582",
+      "mapName": "1207",
+      "name": "001",
+      "paths": [
+        {
+          "coverageArea": 88.07254105565994,
+          "length": 117.43005474087991,
+          "lines": [
+            {
+              "name": "0_1",
+              "reverse": false
+            },
+            {
+              "name": "1_2",
+              "reverse": false
+            },
+            {
+              "name": "2_3",
+              "reverse": false
+            },
+            {
+              "name": "3_4",
+              "reverse": false
+            },
+            {
+              "name": "4_5",
+              "reverse": false
+            },
+            {
+              "name": "5_6",
+              "reverse": false
+            },
+            {
+              "name": "6_7",
+              "reverse": false
+            },
+            {
+              "name": "7_8",
+              "reverse": false
+            },
+            {
+              "name": "8_9",
+              "reverse": false
+            }
+          ],
+          "name": "001_path0",
+          "pointCount": 5063,
+          "points": [
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1584,
+                "y": 721
+              },
+              "name": "0",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": 1.3216442469507399,
+                  "y": -0.35283149369060851,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1727,
+                "y": 720
+              },
+              "name": "1",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": 8.4716443534940424,
+                  "y": -0.40283149443566657,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1821,
+                "y": 828
+              },
+              "name": "2",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": 13.1716444235295,
+                  "y": 4.9971685860306039,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1817,
+                "y": 946
+              },
+              "name": "3",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": 12.971644420549268,
+                  "y": 10.897168673947455,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1732,
+                "y": 1033
+              },
+              "name": "4",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": 8.7216443572193327,
+                  "y": 15.247168738767506,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 939,
+                "y": 1058
+              },
+              "name": "5",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": -30.928356233611709,
+                  "y": 16.497168757393958,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 818,
+                "y": 1010
+              },
+              "name": "6",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": -36.978356323763734,
+                  "y": 14.097168721631171,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 815,
+                "y": 920
+              },
+              "name": "7",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": -37.128356325998908,
+                  "y": 9.5971686545759454,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 926,
+                "y": 795
+              },
+              "name": "8",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": -31.578356243297463,
+                  "y": 3.3471685614436879,
+                  "z": 0
+                }
+              }
+            },
+            {
+              "actions": [],
+              "gridPosition": {
+                "x": 1537,
+                "y": 777
+              },
+              "name": "9",
+              "worldPose": {
+                "orientation": {
+                  "w": 0.99996192306418563,
+                  "x": 0,
+                  "y": 0,
+                  "z": -0.0087265354967356826
+                },
+                "position": {
+                  "x": -1.0283557880669889,
+                  "y": 2.4471685480326428,
+                  "z": 0
+                }
+              }
+            }
+          ]
+        }
+      ],
+      "pointCount": 5063,
+      "points": [
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 1584,
+            "y": 721
+          },
+          "index": -2080390396,
+          "name": "0",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": 1.3216442469507399,
+              "y": -0.35283149369060851,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 1727,
+            "y": 720
+          },
+          "index": -2080390396,
+          "name": "1",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": 8.4716443534940424,
+              "y": -0.40283149443566657,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 1821,
+            "y": 828
+          },
+          "index": -2080390396,
+          "name": "2",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": 13.1716444235295,
+              "y": 4.9971685860306039,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 1817,
+            "y": 946
+          },
+          "index": -2080390396,
+          "name": "3",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": 12.971644420549268,
+              "y": 10.897168673947455,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 1732,
+            "y": 1033
+          },
+          "index": -2080390396,
+          "name": "4",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": 8.7216443572193327,
+              "y": 15.247168738767506,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 939,
+            "y": 1058
+          },
+          "index": -2080390396,
+          "name": "5",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": -30.928356233611709,
+              "y": 16.497168757393958,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 818,
+            "y": 1010
+          },
+          "index": -2080390396,
+          "name": "6",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": -36.978356323763734,
+              "y": 14.097168721631171,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 815,
+            "y": 920
+          },
+          "index": -2080390396,
+          "name": "7",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": -37.128356325998908,
+              "y": 9.5971686545759454,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 926,
+            "y": 795
+          },
+          "index": -2080390396,
+          "name": "8",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": -31.578356243297463,
+              "y": 3.3471685614436879,
+              "z": 0
+            }
+          }
+        },
+        {
+          "actions": null,
+          "angle": -1,
+          "gridPosition": {
+            "x": 1537,
+            "y": 777
+          },
+          "index": -2080390396,
+          "name": "9",
+          "worldPose": {
+            "orientation": {
+              "w": 0.99996192306418563,
+              "x": 0,
+              "y": 0,
+              "z": -0.0087265354967356826
+            },
+            "position": {
+              "x": -1.0283557880669889,
+              "y": 2.4471685480326428,
+              "z": 0
+            }
+          }
+        }
+      ],
+      "type": 2
+    }
+  ],
+  "errorCode": "",
+  "msg": "successed",
+  "successed": true
+}
