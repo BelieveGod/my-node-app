@@ -1,7 +1,7 @@
 Stream = require('node-rtsp-stream')
 stream = new Stream({
     name: 'name',
-    streamUrl: 'rtsp://127.0.0.1:8554/vlc',
+    streamUrl: 'rtsp://admin:haikang12345@10.7.5.151:554/h264/ch1/sub/av_stream',
     wsPort: 9999,
     ffmpegOptions: { // options ffmpeg flags
         '-stats': '', // an option with no neccessary value uses a blank string

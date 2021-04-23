@@ -2,7 +2,7 @@
   "name": "my-node-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/demo04/videoStream.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src --fix",
@@ -17,6 +17,7 @@
     "express": "^4.17.1",
     "node-rtsp-stream": "0.0.9",
     "ol": "^6.4.3",
+    "serialport": "^9.0.7",
     "ws": "1.1.1"
   },
   "devDependencies": {
